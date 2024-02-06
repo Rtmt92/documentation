@@ -1,0 +1,1 @@
+export const WEATHER_API_ERROR_MESSAGE="erreur lors de la recuperation des données";
